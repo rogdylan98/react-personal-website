@@ -1,5 +1,5 @@
 import React from 'react'
-import personal from '../assets/me_snow.jpeg'
+import personal from '../assets/me_snow.png'
 import {AiOutlineArrowRight} from 'react-icons/ai'
 import {Link} from 'react-scroll';
 
