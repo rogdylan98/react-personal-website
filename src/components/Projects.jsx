@@ -9,14 +9,14 @@ const Projects = () => {
         {
             id: 1,
             src: redRidingHood,
-            desc: 'Studying economics and math in college made me extremely interested in finance, so I decided to put my full-stack skills to the test by making a clone of Robinhood! All of the css was custom made, and I was able to incoporate the Yahoo Finance API to query for updated stock prices!',
+            desc: 'Studying economics and math in college made me extremely interested in finance, so I decided to put my full-stack skills to the test by making a clone of Robinhood! All of the css was custom made, and I was able to incorporate the Yahoo Finance API to query for updated stock prices!',
             appName: 'Red Riding Hood',
             github: 'https://github.com/rogdylan98/RedRidingHood'
         },
         {
             id: 2,
             src: plantstagram,
-            desc: 'A couple of friends and I wanted to challenge ourselves by cloning a large social media platform, and since we all love plants we came up with plantstagram. For image upload we incorporated Firebase cloud storage, and our users are able to like, comment, and follow other users!',
+            desc: 'A couple of friends and I wanted to challenge ourselves by cloning a large social media platform, and since we all love plants we decided on plantstagram. For image upload we incorporated Firebase cloud storage, and our users are able to like, comment, and follow other users!',
             appName: 'Plantstagram',
             github: 'https://github.com/MeiMeiYS/plantstagram'
         },
