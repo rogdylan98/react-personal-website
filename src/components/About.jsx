@@ -19,7 +19,7 @@ const About = () => {
             <p className='text-xl'>
                 Now I'm trying to find my home in Silicon Valley as a software engineer and a human being.
                 I've joined the Society of Hispanic Professional Engineers- Silicon Valley chapter to give back
-                any way I can, and in my free time you can find me at Guildhouse in San Jose playing games, singing my heart
+                any way I can. In my free time you can find me at Guildhouse in San Jose playing games, singing my heart
                 out at karaoke, and discovering the best food spots in the Bay Area. I'm available to interview and work immediately
                 and please contact me if you'd like to work with me!
             </p>
